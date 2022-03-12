@@ -87,41 +87,26 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 <br>
 
 <p align="center">
-  <spam>
-    <strong>Personal Blog</strong></spam><br>
-    Mi Diario Python | <a href="http://www.pythondiario.com">www.pythondiario.com</a><br>
-    April 2013 - Present<br><br>
-    * 60,000 unique monthly visits.<br>
-    * Different post and tutorials about Python.</br>
-    * Tutorials about: Django, Flask, Scraping, Automation, python modules and more.</br>
-  </spam>
-</p>
-<hr>
-<br>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=jjaramillo34" alt="JavierJaramillo" data-canonical-src="https://komarev.com/ghpvc/?username=jjaramillo34" style="max-width:100%;">
 </p>
 </p>
 
 <h2 align="center"><a id="user-content---technology-stack" class="anchor" aria-hidden="true" href="#--technology-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"></g-emoji> Technology Stack</h2>
-
-  <p align="center">
+<p align="center">
     <spam>
       <strong><h2>Programming languages:</strong></spam></h2><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
       <img scr="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-      
-  </p>
-  <p align="center">
+</p>
+<p align="center">
       <spam>
       <strong><h2>Programming languages:</strong></spam></h2><br>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  </p>
+</p>
 
 <h2 align="center"><a id="user-content--github-statistics-" class="anchor" aria-hidden="true" href="#-github-statistics-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png"><img class="emoji" alt="bird" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png"></g-emoji> Github Statistics </h2>
 
