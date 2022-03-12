@@ -2,19 +2,20 @@
 
 <p align="center">
   <samp>
-My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack developer from Ecuador.
+My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & full stack developer from Ecuador.
   </samp><br><br>
   <samp>
-  * 🔭 I work as a software developer and contribute to the backend for the creation of web applications.</br>
-  * 🌱 I’m currently learning Scraping, data analysis, image processing, machine learning and more</br>
-  * 👯 I’m looking to collaborate on innovational projects</br>
-  * 💬 Ask me whatever you want</br>
-  * 📫 How to reach me: jjaramillo34@gmail.com, 
+    🔭 I work as a software developer and contribute to the backend for the creation of web applications.</br>
+    🌱 I’m currently learning Scraping, data analysis, image processing, machine learning and more</br>
+    👯 I’m looking to collaborate on innovational projects</br>
+    :two_hearts: In love with the most beautiful woman Crissel</br>
+    💬 Ask me whatever you want</br>
+    📫 How to reach me: jjaramillo34@gmail.com, 
     <a href="https://www.linkedin.com/in/javierjaramillo1//">Linkedin</a></br>
   </samp>
   <br> 
 
-<h2 align="center"><a id="user-content---who-am-i" aria-hidden="true" href="#--who-am-i"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> Experience</h2>
+<h2 align="center"><img src="https://icons.veryicon.com/png/o/miscellaneous/jobuyicons/work-experience-2-16.png"/>Experience</h2>
 <hr><br>
 <p align="center">
   <spam>
@@ -118,6 +119,14 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaramillo34&layout=compact&theme=cobalt&hide_border=true" />
+</p>
+
+<h2 align="center">My Github Repos</h2>
+<p align="center">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jjaramillo34&repo=pyimagesearchuniversity_course&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jjaramillo34&repo=fastapi-mongo&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jjaramillo34&repo=fastapi-mongo&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jjaramillo34&repo=fastapi-mongo&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
 
 <h2 align="center"><a id="user-content--reach-out-to-me-on" class="anchor" aria-hidden="true" href="#-reach-out-to-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> Reach out to me on</h2>
