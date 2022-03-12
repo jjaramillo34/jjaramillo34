@@ -38,12 +38,15 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 
 <p align="center">
   <spam>
-    <strong>Co-Founder | Full Stack Developer</strong></spam><br>
-    SoftTero<br>
-    October 2021 - present<br><br>
-    * Engineered modern applications with .NET, Java, Ionic, Angular, SQL Server, and No SQL.</br>
-    * Built innovative microservices and Web Services (incl. SOAP/REST/XML).</br>
-    * Efficiently deployed and integrated software engineered by team and updated integration/deployment scripts to improve continuous integration practices.</br></br>
+    <strong>Junior Data Engineer</strong></spam><br>
+    CareerMD<br>
+    Jul 2019 - Nov 2019<br><br>
+    • Gathered and process raw data at scale (including writing scripts, web scraping, calling APIs, PDF, image parsing, writing applications, etc.)</br>
+    • Built custom Python scripts using BeautifulSoup, Selenium, Requests and other python libraries as per data requirements to parse data for extraction</br>
+    • Performed data reconciliation procedures to confirm completeness of data extraction. Using various data sources to analyze and compare data using latest            technology in python for analysis</br>
+    • Worked closely with senior data engineer to assist on feature engineering, model training frameworks, and model deployments at scale</br>
+    • Worked with Project Management to provide timely estimates, updates & status for data collection and other projects</br>
+    </br></br>
   </spam>
 </p>
 <hr>
@@ -51,11 +54,17 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 
 <p align="center">
   <spam>
-    <strong>Freelance Software Developer</strong></spam><br>
-    Freelancer.com<br>
-    June 2016<br><br>
-    * Some scripts in python.</br>
-    * Winform C# and SqlServer.</br>
+    <strong>Research Analyst</strong></spam><br>
+    CityRealty.com<br>
+    Dec 2012 - Mar 2019<br><br>
+    • Responsible for handling custom data request from the Wall Street Journal, The New York Times and the Washington Post</br>
+    • Thorough analysis of real estate listings, closings, amenities, geographic locations and ensured accurate entry of all data into the company system. Monitoring and           maintaining key performance indicators</br>
+    • Streamline office operations, independently code new tools in order to enhance overall organizational objectives</br>
+    • Provide in-person technical support at the New York office (30+ staff) and proficient in handling various networks, software and hardware issues for 30+ staff</br>
+    • Submit and generate weekly, monthly, and quarterly reports through utilization of Microsoft Excel’s pivot tables, VBA and graphs</br>
+    • Responsible for assisting weekly presentations outlining developing/executed transactions</br>
+    • Participate in meetings for professional development and updates in company process</br>
+    • Provide on-the-job training to new hires and served as subject matter expert to current staff</br>
   </spam>
 </p>
 <hr>
@@ -63,14 +72,15 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 
 <p align="center">
   <spam>
-    <strong>Software testing</strong></spam><br>
-    Asociación Médica de San José<br>
-    April 2015 - August 2017<br><br>
-    * Reviewing software requirements and preparing test scenarios.<br>
-    * Executing tests on software usability.<br>
-    * Preparing reports on all aspects related to the software testing carried out and reporting to the design team.<br>
-    * Interacting with clients to understand product requirements.<br>
-    * Participating in design reviews and providing input on requirements, product design, and potential problems.
+    <strong>Security Identity Access Management</strong></spam><br>
+    NYC Deparment of Education<br>
+    Oct 2008 - Feb 2012<br><br>
+    • Conducted training sessions for new hires in order to orient them with the Department of Education policies</br>
+    • Submitted recommendations towards process improvement and helped to tailor process pertaining to user identity and access</br>
+    • Collaborated with DOE Supervisor in prioritizing tickets in the ticket queue for the Security Help Desk</br>
+    • Handled escalated service concerns, troubleshoot and provide technical support as needed</br>
+    • Demonstrated good work ethics and the ability to communicate well with management team and staff</br>
+    • Answered all incoming calls and responded to emails sent requesting assistance</br>
   </spam>
 </p>
 <hr>
