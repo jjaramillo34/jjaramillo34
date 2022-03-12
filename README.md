@@ -18,7 +18,7 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 <hr><br>
 <p align="center">
   <spam>
-    <strong>AI Model Developer</spam><br>
+    <strong>AI Model Developer</strong></spam><br>
     Agilent Technologies<br>
     Octuber 2020 - present<br><br>
     • Follow customer success best practices to seamlessly deploy asset monitors</br>
@@ -32,7 +32,7 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
     • Act as Tier 2 support for modeling questions</br>
     • Proactive model maintenance and scheduled re-trainability<br><br>
   </spam>
-</p>
+</p>   
 <hr>
 <br>
 
@@ -58,9 +58,9 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
     CityRealty.com<br>
     Dec 2012 - Mar 2019<br><br>
     • Responsible for handling custom data request from the Wall Street Journal, The New York Times and the Washington Post</br>
-    • Thorough analysis of real estate listings, closings, amenities, geographic locations and ensured accurate entry of all data into the company system. Monitoring and           maintaining key performance indicators</br>
+    • Thorough analysis of real estate listings, closings, amenities, geographic locations and ensured accurate entry of all data into the company system.            Monitoring and maintaining key performance indicators</br>
     • Streamline office operations, independently code new tools in order to enhance overall organizational objectives</br>
-    • Provide in-person technical support at the New York office (30+ staff) and proficient in handling various networks, software and hardware issues for 30+ staff</br>
+    • Provide in-person technical support at the New York office (30+ staff) and proficient in handling various networks, software and hardware issues for 30+  staff</br>
     • Submit and generate weekly, monthly, and quarterly reports through utilization of Microsoft Excel’s pivot tables, VBA and graphs</br>
     • Responsible for assisting weekly presentations outlining developing/executed transactions</br>
     • Participate in meetings for professional development and updates in company process</br>
@@ -106,20 +106,22 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 
 <h2 align="center"><a id="user-content---technology-stack" class="anchor" aria-hidden="true" href="#--technology-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"></g-emoji> Technology Stack</h2>
 
-<p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/26b41aa347a422445d04dcab5271ac6f355a7fe9fc40a12d8ce203597719c714/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f632d73686172702e737667"><img src="https://camo.githubusercontent.com/26b41aa347a422445d04dcab5271ac6f355a7fe9fc40a12d8ce203597719c714/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f632d73686172702e737667" alt="C-Sharp" width="40" height="40" data-canonical-src="https://cdn.svgporn.com/logos/c-sharp.svg" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gilbarbara/logos/blob/master/logos/angular-icon.svg"><img src="https://github.com/gilbarbara/logos/raw/master/logos/angular-icon.svg" alt="angular" width="40" height="40" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667"><img src="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667" alt="Mongo-DB" width="36" height="36" data-canonical-src="https://cdn.svgporn.com/logos/mongodb.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gilbarbara/logos/blob/master/logos/mysql-icon.svg"><img src="https://github.com/gilbarbara/logos/raw/master/logos/mysql-icon.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0bb402939edb9c333066f4d8c36448ad145d5b0afa1b388b871140235f501359/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f747970657363726970742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0bb402939edb9c333066f4d8c36448ad145d5b0afa1b388b871140235f501359/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f747970657363726970742d69636f6e2e737667" alt="TypeScript" width="40" height="40" data-canonical-src="https://cdn.svgporn.com/logos/typescript-icon.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"><img src="https://github.com/gilbarbara/logos/raw/master/logos/python.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gilbarbara/logos/blob/master/logos/django.svg"><img src="https://github.com/gilbarbara/logos/raw/master/logos/django.svg" alt="django" width="40" height="40" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gilbarbara/logos/blob/master/logos/flask.svg"><img src="https://github.com/gilbarbara/logos/raw/master/logos/flask.svg" alt="flask" width="40" height="40" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg"><img src="https://github.com/gilbarbara/logos/raw/master/logos/git-icon.svg" alt="git" width="40" height="40" style="max-width: 100%;"></a> 
-</p>
+  <p align="center">
+    <spam>
+      <strong><h2>Programming languages:</strong></spam></h2><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+      <img scr="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+      
+  </p>
+  <p align="center">
+      <spam>
+      <strong><h2>Programming languages:</strong></spam></h2><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  </p>
 
 <h2 align="center"><a id="user-content--github-statistics-" class="anchor" aria-hidden="true" href="#-github-statistics-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png"><img class="emoji" alt="bird" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png"></g-emoji> Github Statistics </h2>
 
@@ -136,13 +138,22 @@ My names is <strong>Javier Jaramillo</strong>. I am Data Analyst & full stack de
 <h2 align="center"><a id="user-content--reach-out-to-me-on" class="anchor" aria-hidden="true" href="#-reach-out-to-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> Reach out to me on</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-caraballo-336a62ba" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/DiePyCar" rel="nofollow"><img src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:diegocaraballo84@gmail.com?subject=Hello%20Diego,%20From%20Github"><img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jjaramillo34@gmail.com" rel="nofollow">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jjaramillo34/" rel="nofollow">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/jejaramilloc" rel="nofollow">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit"/>
+  </a>
+  <a href="https://www.linkedin.com/in/javierjaramillo1/" rel="nofollow">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <!--
-**DiegoCaraballo/DiegoCaraballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Javier Jaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
