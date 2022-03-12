@@ -8,7 +8,6 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & full stack d
     🔭 I work as a software developer and contribute to the backend for the creation of web applications.</br>
     🌱 I’m currently learning Scraping, data analysis, image processing, machine learning and more</br>
     👯 I’m looking to collaborate on innovational projects</br>
-    :two_hearts: In love with the most beautiful woman Crissel</br>
     💬 Ask me whatever you want</br>
     📫 How to reach me: jjaramillo34@gmail.com, 
     <a href="https://www.linkedin.com/in/javierjaramillo1//">Linkedin</a></br>
