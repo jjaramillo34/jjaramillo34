@@ -14,7 +14,7 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & full stack d
   </samp>
   <br> 
 
-<h2 align="center"><img src="https://icons.veryicon.com/png/o/miscellaneous/jobuyicons/work-experience-2-16.png"/>Experience</h2>
+<h2 align="center">💬 Experience</h2>
 <hr><br>
 <p align="center">
   <spam>
