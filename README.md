@@ -19,7 +19,7 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
 <p align="justify">
   <spam>
     <strong>AI Model Developer</strong></spam><br>
-    Agilent Technologies<br>
+  <strong>Agilent Technologies</strong><br>
     Analytical instrumentation development and manufacturing company<br>
     <p align="left">Octuber 2020 - present</p><br><br>
    •	Tag activities in customer data to create and provide models for each new customer for the AI Analyst to enhance AI training through regression   models, helping evaluate changes in equipment performance<br>
