@@ -19,7 +19,8 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
 <p align="left">
   <spam>
     <strong>AI Model Developer</strong></spam><br>
-</p><p align="right">Octuber 2020 - present</p><br><br>
+    <p align="right">Octuber 2020 - present</p><br><br>
+</p>
     <strong>Agilent Technologies</strong><br>
     Analytical instrumentation development and manufacturing company<br>
     
