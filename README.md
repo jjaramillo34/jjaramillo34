@@ -16,7 +16,7 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
 
 <h2 align="center">💬 Experience</h2>
 <hr><br>
-<p align="center">
+<p align="justify">
   <spam>
     <strong>AI Model Developer</strong></spam><br>
     Agilent Technologies<br>
