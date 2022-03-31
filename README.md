@@ -20,8 +20,7 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
   <spam>
     <strong>AI Model Developer</strong></spam><br>
     Agilent Technologies<br>
-    Analytical instrumentation development and manufacturing company![image](https://user-images.githubusercontent.com/93830910/161107371-6c4fbd54-6d48-4b58-8cab-4bc7e9609c91.png)
-
+    Analytical instrumentation development and manufacturing company<br>
     Octuber 2020 - present<br><br>
    •	Tag activities in customer data to create and provide models for each new customer for the AI Analyst to enhance AI training through regression   models, helping evaluate changes in equipment performance<br>
 •	Developed the “Golden Tag Set” to determine a standard range for product test specifications to apply to future assets, minimizing need for additional research and saving about ~2 weeks of analysis time<br>
