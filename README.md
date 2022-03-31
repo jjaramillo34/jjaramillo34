@@ -16,18 +16,21 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
 
 <h2 align="center">💬 Experience</h2>
 <hr><br>
-<p align="justify">
+<p align="left">
   <spam>
     <strong>AI Model Developer</strong></spam><br>
-  <strong>Agilent Technologies</strong><br>
+</p><p align="left">Octuber 2020 - present</p><br><br>
+    <strong>Agilent Technologies</strong><br>
     Analytical instrumentation development and manufacturing company<br>
-    <p align="left">Octuber 2020 - present</p><br><br>
-   •	Tag activities in customer data to create and provide models for each new customer for the AI Analyst to enhance AI training through regression   models, helping evaluate changes in equipment performance<br>
-•	Developed the “Golden Tag Set” to determine a standard range for product test specifications to apply to future assets, minimizing need for additional research and saving about ~2 weeks of analysis time<br>
-•	Updated Excel templates using VBA and Python scripts to automate dashboards and seamlessly compare old and new data, slashing time spent on equipment research by ~2 hours per week<br>
-•	Engage with users and review instrument log files to understand utilization and deploy asset monitors to model the tagging process and optimize AI for connected assets<br>
-•	Review and approve model predictions with the AI Model Team as Tier 2 support before releasing models to customers
-•	Parse data faster using Python scripts and develop scrapers to read XML files and locate data for clients, conducting proactive model maintenance and scheduled re-trainability<br>
+    
+
+   <p align="justify">
+      •	Tag activities in customer data to create and provide models for each new customer for the AI Analyst to enhance AI training through regression         models, helping evaluate changes in equipment performance<br>
+      •	Developed the “Golden Tag Set” to determine a standard range for product test specifications to apply to future assets, minimizing need for       additional research and saving about ~2 weeks of analysis time<br>
+      •	Updated Excel templates using VBA and Python scripts to automate dashboards and seamlessly compare old and new data, slashing time spent on   equipment research by ~2 hours per week<br>
+      •	Engage with users and review instrument log files to understand utilization and deploy asset monitors to model the tagging process and optimize AI  for connected assets<br>
+      •	Review and approve model predictions with the AI Model Team as Tier 2 support before releasing models to customers
+      •	Parse data faster using Python scripts and develop scrapers to read XML files and locate data for clients, conducting proactive model maintenance and scheduled re-trainability<br>
 <br><br>
   </spam>
 </p>   
