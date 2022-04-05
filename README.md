@@ -6,7 +6,7 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
   </samp><br><br>
   <samp>
     🔭 I work as a python Data Analyst and contribute to create dashboards and other analytical tools .</br>
-    🌱 My current interest is on: Django, Image Processing, Data Science, Machine Learning, Deep Learning </br>
+    🌱 My current interest is on: Streamlit, Django, Image Processing, Data Science, Machine Learning, Deep Learning </br>
     👯 I’m looking to collaborate on innovative projects</br>
     💬 Ask me whatever you want</br>
     📫 How to reach me: jjaramillo34@gmail.com, 
@@ -16,78 +16,66 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
 
 <h2 align="center">💬 Experience</h2>
 <hr><br>
-<p style="text-align:left;">
-    <strong>AI Model Data Specialist</strong>
-    <span style="float:right;">
-    10/2020 – Present
-    </span>
+<p>
+    <strong>AI Model Data Specialist</strong><br>
+    <strong>Agilent Technologies --- Analytical instrumentation development and manufacturing company</strong><br>
+  <strong>10/2020 – Present, New York, NY</strong>
 </p>
-<strong>Agilent Technologies</strong><br>
-    Analytical instrumentation development and manufacturing company<br>
-    
-
-   <p align="justify">
+<p align="justify">
       •	Tag activities in customer data to create and provide models for each new customer for the AI Analyst to enhance AI training through regression         models, helping evaluate changes in equipment performance<br>
       •	Developed the “Golden Tag Set” to determine a standard range for product test specifications to apply to future assets, minimizing need for       additional research and saving about ~2 weeks of analysis time<br>
       •	Updated Excel templates using VBA and Python scripts to automate dashboards and seamlessly compare old and new data, slashing time spent on   equipment research by ~2 hours per week<br>
       •	Engage with users and review instrument log files to understand utilization and deploy asset monitors to model the tagging process and optimize AI  for connected assets<br>
       •	Review and approve model predictions with the AI Model Team as Tier 2 support before releasing models to customers
       •	Parse data faster using Python scripts and develop scrapers to read XML files and locate data for clients, conducting proactive model maintenance and scheduled re-trainability<br>
-<br><br>
-  </spam>
+<br>
 </p>   
 <hr>
-<br>
 
-<p align="center">
-  <spam>
-    <strong>Junior Data Engineer</strong></spam><br>
-    CareerMD<br>
-    Jul 2019 - Nov 2019<br><br>
-    • Gathered and process raw data at scale (including writing scripts, web scraping, calling APIs, PDF, image parsing, writing applications, etc.)</br>
-    • Built custom Python scripts using BeautifulSoup, Selenium, Requests and other python libraries as per data requirements to parse data for extraction</br>
-    • Performed data reconciliation procedures to confirm completeness of data extraction. Using various data sources to analyze and compare data using latest            technology in python for analysis</br>
-    • Worked closely with senior data engineer to assist on feature engineering, model training frameworks, and model deployments at scale</br>
-    • Worked with Project Management to provide timely estimates, updates & status for data collection and other projects</br>
-    </br></br>
-  </spam>
+<p>
+    <strong>Junior Data Engineer/Analyst Consultant</strong><br>
+    <strong>Careermd.com --- Healthcare and medical recruitment website</strong><br>
+  <strong>06/2019 – 11/2019, New York, NY</strong>
+</p>
+   <p align="justify">
+      •	Gathered and processed ~6K raw data points of medical professionals at scale (including writing scripts, web scraping, calling APIs, PDF, image parsing, writing applications) and deployed SQL to compare data and upload into PostgreSQL & AWS databases<br>
+•	Built custom Python scripts using Beautiful Soup, Selenium, Requests and other Python libraries as per data requirements to automate data parsing and extraction, saving ~3 weeks<br>
+•	Collaborated with Project Management to provide timely estimates, updates & status for data collection, completing project 6 months early and helping attract 400% more interest at recruiting events<br>
+•	Performed data reconciliation procedures to confirm completeness of data extraction and wrote ~300 Python scripts to train NPL using machine learning algorithms for pattern recognition, improving reusability<br>
+•	Partnered with senior data engineer to support feature engineering, model training frameworks, & model deployments at scale<br>
+<br>
 </p>
 <hr>
-<br>
 
-<p align="center">
-  <spam>
-    <strong>Research Analyst</strong></spam><br>
-    CityRealty.com<br>
-    Dec 2012 - Mar 2019<br><br>
-    • Responsible for handling custom data request from the Wall Street Journal, The New York Times and the Washington Post</br>
-    • Thorough analysis of real estate listings, closings, amenities, geographic locations and ensured accurate entry of all data into the company system.            Monitoring and maintaining key performance indicators</br>
-    • Streamline office operations, independently code new tools in order to enhance overall organizational objectives</br>
-    • Provide in-person technical support at the New York office (30+ staff) and proficient in handling various networks, software and hardware issues for 30+  staff</br>
-    • Submit and generate weekly, monthly, and quarterly reports through utilization of Microsoft Excel’s pivot tables, VBA and graphs</br>
-    • Responsible for assisting weekly presentations outlining developing/executed transactions</br>
-    • Participate in meetings for professional development and updates in company process</br>
-    • Provide on-the-job training to new hires and served as subject matter expert to current staff</br>
-  </spam>
+<p>
+    <strong>Research Analyst</strong><br>
+    <strong>Cityrealty.com --- Real estate listings and research website</strong><br>
+  <strong>12/2012 – 03/2019, New York, NY</strong>
 </p>
-<hr>
+<p align="justify">
+•	Analyzed hundreds of real estate listings, closings, amenities, and geographic locations daily and automated entry of all data into internal CMS (content management system) by creating a pipeline of the ETL process in VBA, improving speed by 20x<br>
+•	Streamlined office operations and enhanced organizational objectives by independently coding new tools  weekly and monthly<br>
+•	Generated weekly, monthly, and quarterly reports with Excel pivot tables, VBA, and graphs to optimize insights<br>
+•	Provided training to new hires and in-person technical support for a staff of 30+, resolving issues with networks, software, and hardware as subject matter expert (SME)<br>
+•	Executed custom data requests from large clients such as The Wall Street Journal, The New York Times & The Washington Post<br>
 <br>
+</p>   
+<hr>
 
-<p align="center">
-  <spam>
-    <strong>Security Identity Access Management</strong></spam><br>
-    NYC Deparment of Education<br>
-    Oct 2008 - Feb 2012<br><br>
-    • Conducted training sessions for new hires in order to orient them with the Department of Education policies</br>
-    • Submitted recommendations towards process improvement and helped to tailor process pertaining to user identity and access</br>
-    • Collaborated with DOE Supervisor in prioritizing tickets in the ticket queue for the Security Help Desk</br>
-    • Handled escalated service concerns, troubleshoot and provide technical support as needed</br>
-    • Demonstrated good work ethics and the ability to communicate well with management team and staff</br>
-    • Answered all incoming calls and responded to emails sent requesting assistance</br>
-  </spam>
+<p>
+    <strong>Security Identity Access Management</strong><br>
+    <strong>NYC Deparment of Education --- New York City public schools</strong><br>
+  <strong>Oct 2008 - Feb 2012, New York, NY</strong>
 </p>
+<p align="justify">
+• Conducted training sessions for new hires in order to orient them with the Department of Education policies</br>
+• Submitted recommendations towards process improvement and helped to tailor process pertaining to user identity and access</br>
+• Collaborated with DOE Supervisor in prioritizing tickets in the ticket queue for the Security Help Desk</br>
+• Handled escalated service concerns, troubleshoot and provide technical support as needed</br>
+• Demonstrated good work ethics and the ability to communicate well with management team and staff</br>
+• Answered all incoming calls and responded to emails sent requesting assistance</br><br>
+</p>   
 <hr>
-<br>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jjaramillo34" alt="JavierJaramillo" data-canonical-src="https://komarev.com/ghpvc/?username=jjaramillo34" style="max-width:100%;">
