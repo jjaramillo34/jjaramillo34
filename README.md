@@ -18,31 +18,33 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
 <hr><br>
 <p>
     <strong>AI Model Data Specialist</strong><br>
-    <strong>Agilent Technologies --- Analytical instrumentation development and manufacturing company</strong><br>
+    <strong>Agilent Technologies – Leading analytical instrumentation development and manufacturing company</strong><br>
   <strong>10/2020 – Present, New York, NY</strong>
 </p>
 <p align="justify">
-      •	Tag activities in customer data to create and provide models for each new customer for the AI Analyst to enhance AI training through regression         models, helping evaluate changes in equipment performance<br>
-      •	Developed the “Golden Tag Set” to determine a standard range for product test specifications to apply to future assets, minimizing need for       additional research and saving about ~2 weeks of analysis time<br>
-      •	Updated Excel templates using VBA and Python scripts to automate dashboards and seamlessly compare old and new data, slashing time spent on   equipment research by ~2 hours per week<br>
-      •	Engage with users and review instrument log files to understand utilization and deploy asset monitors to model the tagging process and optimize AI  for connected assets<br>
-      •	Review and approve model predictions with the AI Model Team as Tier 2 support before releasing models to customers
-      •	Parse data faster using Python scripts and develop scrapers to read XML files and locate data for clients, conducting proactive model maintenance and scheduled re-trainability<br>
+•	Tag activities in customer data to create and provide models for each new customer for the AI Analyst to enhance AI training through regression models, helping evaluate changes in equipment performance
+•	Developed the “Golden Tag Set” to determine a standard range for product test specifications to apply to future assets, minimizing need for additional research and saving about ~2 weeks of analysis time 
+•	Updated Excel templates using VBA and Python scripts to automate dashboards and seamlessly compare old and new data, slashing time spent on equipment research by ~2 hours per week
+•	Engage with users and review instrument log files to understand utilization and deploy asset monitors to model the tagging process and optimize AI for connected assets
+•	Review and approve model predictions with the AI Model Team as Tier 2 support before releasing models to customers
+•	Parse data faster using Python scripts and develop scrapers to read XML files and locate data for clients, conducting proactive model maintenance and scheduled re-trainability
+<br>
 <br>
 </p>   
 <hr>
 
 <p>
-    <strong>Junior Data Engineer/Analyst Consultant</strong><br>
+    <strong>Junior Data Engineer/ Analyst Consultant</strong><br>
     <strong>Careermd.com --- Healthcare and medical recruitment website</strong><br>
   <strong>06/2019 – 11/2019, New York, NY</strong>
 </p>
    <p align="justify">
-      •	Gathered and processed ~6K raw data points of medical professionals at scale (including writing scripts, web scraping, calling APIs, PDF, image parsing, writing applications) and deployed SQL to compare data and upload into PostgreSQL & AWS databases<br>
-•	Built custom Python scripts using Beautiful Soup, Selenium, Requests and other Python libraries as per data requirements to automate data parsing and extraction, saving ~3 weeks<br>
-•	Collaborated with Project Management to provide timely estimates, updates & status for data collection, completing project 6 months early and helping attract 400% more interest at recruiting events<br>
-•	Performed data reconciliation procedures to confirm completeness of data extraction and wrote ~300 Python scripts to train NPL using machine learning algorithms for pattern recognition, improving reusability<br>
-•	Partnered with senior data engineer to support feature engineering, model training frameworks, & model deployments at scale<br>
+•	Gathered and processed ~6K raw data points of medical professionals at scale (including writing scripts, web scraping, calling APIs, PDF, image parsing, writing applications) and deployed SQL to compare data and upload into PostgreSQL & AWS databases
+•	Built custom Python scripts using Beautiful Soup, Selenium, Requests and other Python libraries as per data requirements to automate data parsing and extraction, saving ~3 weeks
+•	Collaborated with Project Management to provide timely estimates, updates & status for data collection, completing project 6 months early and helping attract 400% more interest at recruiting events
+•	Performed data reconciliation procedures to confirm completeness of data extraction and wrote ~300 Python scripts to train NPL using machine learning algorithms for pattern recognition, improving reusability
+•	Partnered with senior data engineer to support feature engineering, model training frameworks, & model deployments at scale.
+<br>
 <br>
 </p>
 <hr>
@@ -68,12 +70,12 @@ My name is <strong>Javier Jaramillo</strong>. I am a Data Analyst & future full 
   <strong>Oct 2008 - Feb 2012, New York, NY</strong>
 </p>
 <p align="justify">
-• Conducted training sessions for new hires in order to orient them with the Department of Education policies</br>
-• Submitted recommendations towards process improvement and helped to tailor process pertaining to user identity and access</br>
-• Collaborated with DOE Supervisor in prioritizing tickets in the ticket queue for the Security Help Desk</br>
-• Handled escalated service concerns, troubleshoot and provide technical support as needed</br>
-• Demonstrated good work ethics and the ability to communicate well with management team and staff</br>
-• Answered all incoming calls and responded to emails sent requesting assistance</br><br>
+•	Analyzed hundreds of real estate listings, closings, amenities, and geographic locations daily and automated entry of all data into internal CMS (content management system) by creating a pipeline of the ETL process in VBA, improving speed by 20x
+•	Streamlined office operations and enhanced organizational objectives by independently coding new tools  weekly and monthly 
+•	Generated weekly, monthly, and quarterly reports with Excel pivot tables, VBA, and graphs to optimize insights
+•	Provided training to new hires and in-person technical support for a staff of 30+, resolving issues with networks, software, and hardware as subject matter expert (SME)
+•	Executed custom data requests from large clients such as The Wall Street Journal, The New York Times & The Washington Post
+</br><br>
 </p>   
 <hr>
 
